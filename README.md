@@ -1,7 +1,7 @@
 # command-line-params
 A Racket macro to automate command line parameter definitions
 
-How to use?
+### How to use?
 <pre>
 (define-command-line-params my-path my-second-parameter)
 </pre>
